@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "342868723234",
+    "firebase_url": "https://tanklevel-a7581-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tanklevel-a7581",
+    "storage_bucket": "tanklevel-a7581.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342868723234:android:94c76f0e7947868434ac7b",
+        "android_client_info": {
+          "package_name": "com.neodyt.tanklevel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENhwfRWfODX6gN4ntxzBy5eMA4lEdmhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
